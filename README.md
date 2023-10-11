@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaarora" alt="tanishaarora" /></a> </p>
 
+- 🔭 I’m currently working on [Gyan Fresh](https://play.google.com/store/apps/details?id=com.gyandairy&hl=en&gl=US)
 - 📫 How to reach me **tanishaarora137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://auth.geeksforgeeks.org/user/user/tanishaarora137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/tanishaarora137" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tanisha1foh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanisha1foh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
