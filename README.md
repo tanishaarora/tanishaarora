@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanishaarora" alt="tanishaarora" /></a> </p>
 
-- 🔭 I’m currently working on [Gyan Fresh, Stikky Data](https://play.google.com/store/apps/details?id=com.gyandairy&hl=en&gl=US , https://apps.apple.com/in/app/stikkydata/id1543127164)
+- 🔭 I’m currently working on [Gyan Fresh](https://play.google.com/store/apps/details?id=com.gyandairy&hl=en&gl=US) , [Stikky Data](https://apps.apple.com/in/app/stikkydata/id1543127164)
 - 📫 How to reach me **tanishaarora137@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
