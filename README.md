@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tanishaarora</h1>
-<h3 align="center">Android/Flutter developer</h3>
+<h3 align="center">Android/Flutter/iOS develope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishaarora&label=Profile%20views&color=0e75b6&style=flat" alt="tanishaarora" /> </p>
 
